@@ -145,6 +145,6 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Adarsh Goel_(me)](https://github.com/adarsh-goel)
-- [DeekshithSH](https://github.com/DeekshithSH) 
+- [SadNobita_(me)](https://github.com/SadNobita)
+- [Instagram](https://instagram.com/mr_x_vimarsh_03?igshid=YmMyMTA2M2Y=)
 - Everyone In This Journey !
